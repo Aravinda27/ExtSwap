@@ -8,3 +8,6 @@ The dataset is comprised of StyleGAN2 generated images and W+ latent codes. see 
 
 To train the model run train_script_new.py, you can change parameters in Configs/ folder.
 
+# Results
+
+
